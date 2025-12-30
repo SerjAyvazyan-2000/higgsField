@@ -492,7 +492,9 @@ main {
 .v-tools-btn {
   margin-top: 50px;
 }
-
+.v-tools-btn i{
+  font-size: 24px !important;
+}
 .v-tools-swiper-block {
   max-width: 949px;
   width: 100%;
@@ -1132,6 +1134,9 @@ main {
     border-radius: 10px;
     width: 95%;
   }
+  .v-tools-btn i{
+  font-size: 18px !important;
+}
 
   .v-tools-texts h3 {
     font-size: 18px;
